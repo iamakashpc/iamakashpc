@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Akash P C
 =================================================================================================================================
 
-React JS Developer
+Frontend Developer
 ------------------
 
 Versatile React.js artisan crafting intricate, responsive UIs. Proficient in component-based architecture, state management, and optimizing virtual DOM for unparalleled web experiences. 🚀 #ReactJS #FrontEndMaestro
